@@ -1,0 +1,22 @@
+.external-table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-left:300px;
+}
+
+.external-table th,
+.external-table td {
+    border: 2px solid green;
+    padding: 10px;
+    text-align: center;
+}
+
+.external-table th {
+    background-color: lightgreen;
+}
+
+h2 {
+     margin-left:300px;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-size:20px;
+}
